@@ -1,0 +1,7 @@
+serial_number,hostname,assigned_user,os,filevault_status,encryption_status,os_version,last_checked,notes
+C02XK1ABCD,macbook-jdoe,jdoe@company.com,macOS,unknown,,,
+C02YM2EFGH,macbook-asmith,asmith@company.com,macOS,unknown,,,
+C02ZN3IJKL,macbook-bwong,bwong@company.com,macOS,unknown,,,
+CHROMEOS001,chromebook-mjones,mjones@company.com,ChromeOS,,unknown,unknown,,
+CHROMEOS002,chromebook-lpatel,lpatel@company.com,ChromeOS,,unknown,unknown,,
+CHROMEOS003,chromebook-treyes,treyes@company.com,ChromeOS,,unknown,unknown,,
